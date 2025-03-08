@@ -4,7 +4,7 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> About Me </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> "시련이 있어도 실패는 없다."라는 문구를 가슴에 새기며, 어떠한 어려움 속에서도 포기하지 않고 최선을 다하는 이동연입니다. </div>
-    <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 경력 </h4>
+    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 경력 </h3>
     <ul style="font-size: 14px; color: #282d33; line-height: 1.6;">
         <li>휴레이포지티브 - 백엔드 개발자 (2022.10 ~ 2025.02)</li>
     </ul>
