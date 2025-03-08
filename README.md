@@ -8,7 +8,7 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Experience </h2>  
     <ul style="font-size: 14px; color: #282d33; line-height: 1.6;">
-        <li>휴레이포지티브 - 백엔드 개발자 (2022.10 ~ 2025.02)</li>
+        <li>휴레이포지티브 - Backend Developer (2022.10 ~ 2025.02)</li>
     </ul>
     </div>
     <div style="text-align: left;">
