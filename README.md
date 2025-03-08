@@ -1,12 +1,12 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&text=DONGYEON's%20GITHUB&animation=&fontColor=000000&fontSize=40" />
+<div align= "left">
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:364b7c,100:2053cb&height=120&text=DONGYEON's%20GITHUB&animation=&fontColor=ffffff&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ABOUT ME </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> "시련이 있어도 실패는 없다."라는 문구를 가슴에 새기며, 어떠한 어려움 속에서도 포기하지 않고 최선을 다하는 이동연입니다. </div> 
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Tech Stacks </h2>
     <div style="margin: ; text-align: left;" "text-align: left;"> 
         <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Strong </h3>  
         <img src="https://img.shields.io/badge/JAVA-5b3f38?style=flat-square&logo=Java&logoColor=white"/>
@@ -29,7 +29,7 @@
         <img src="https://img.shields.io/badge/CONFLUENCE-007396?style=flat-square&logo=Confluence&logoColor=white"/>
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Stats </h2> <div style="text-align: left;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkemrm&layout=compact&title_color=000000&text_color=000000"/> </div> 
     <div style="text-align: left;">
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
