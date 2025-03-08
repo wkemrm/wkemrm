@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=soft&color=0:364b7c,100:2053cb&height=120&text=DONGYEON's%20GITHUB&animation=&fontColor=ffffff&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ABOUT ME </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> About Me </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> "시련이 있어도 실패는 없다."라는 문구를 가슴에 새기며, 어떠한 어려움 속에서도 포기하지 않고 최선을 다하는 이동연입니다. </div> 
     </div>
     <div style="text-align: left;">
@@ -29,7 +29,15 @@
         <img src="https://img.shields.io/badge/CONFLUENCE-007396?style=flat-square&logo=Confluence&logoColor=white"/>
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Stats </h2> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Post </h2>  
+    <div style="margin-top: 10px;">
+    <a href="https://wax-reply-491.notion.site/Kafka-1b00707797e880e0a181e971d09d70e2" 
+       style="font-size: 14px; color: #0366d6; text-decoration: none;">
+       📌 트랜잭션 내에서 Kafka 메세지를 안정적으로 다루는 방법
+    </a>
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> STATS </h2> 
         <div style="text-align: left;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkemrm&layout=compact&title_color=000000&text_color=000000"/> 
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yhn8"/>
