@@ -3,7 +3,14 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> About Me </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> "시련이 있어도 실패는 없다."라는 문구를 가슴에 새기며, 어떠한 어려움 속에서도 포기하지 않고 최선을 다하는 이동연입니다. </div>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
+        <ul>
+            <li>저는 데이터로 소통하는 것을 선호하며, 문제를 해결하기 위해 맥락을 이해하는 것이 중요하다고 생각합니다. </li>
+            <li>타 부서에서 호출한 API의 오류를 서버 로그 및 요청 데이터를 기반으로 분석하여 원인을 진단하고 해결한 경험이 있습니다.</li>
+            <li>효율적인 회의를 위해 사전에 관련 문서를 정리해 맥락을 공유하고, 준비된 상태에서 회의에 임하는 것을 선호합니다.</li>
+            <li>새로운 기술에 대한 두려움보다는, 배우는 과정에서 흥미와 즐거움을 느끼는 편입니다. 최근에는 Spring AI에 대해 관심을 갖고 학습하고 있습니다.</li>
+        </ul>
+    </div>    
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Experience </h2>  
