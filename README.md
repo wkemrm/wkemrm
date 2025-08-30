@@ -46,6 +46,10 @@
     <a href="https://wax-reply-491.notion.site/Kafka-1b00707797e880e0a181e971d09d70e2" 
        style="font-size: 14px; color: #0366d6; text-decoration: none;">
        📌 트랜잭션 내에서 Kafka 메세지를 안정적으로 다루는 방법
+    </a></br>
+    <a href="https://wax-reply-491.notion.site/25f0707797e880f8bba1e6b74a29305b" 
+       style="font-size: 14px; color: #0366d6; text-decoration: none;">
+       📌 커버링 인덱스를 활용한 쿼리 성능 최적화
     </a>
     </div>
     <div style="text-align: left;"> 
